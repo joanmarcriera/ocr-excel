@@ -4,6 +4,7 @@ certifi==2022.12.7
 chardet==3.0.4
 charset-normalizer==3.0.1
 compressed-rtf==1.0.6
+docx==0.2.4
 docx2txt==0.8
 easyocr==1.6.2
 ebcdic==1.1.1
